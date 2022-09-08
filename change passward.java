@@ -86,4 +86,5 @@ public ChangePassword(String name) {
     lblEnterNewPassword.setFont(new Font("System", Font.PLAIN, 30));
     lblEnterNewPassword.setBounds(45, 37, 326, 67);
     contentPane.add(lblEnterNewPassword);
+    }
 }
