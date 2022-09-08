@@ -46,7 +46,7 @@ public ChangePassword(String name) {
     contentPane.setLayout(null);
 
     textField = new JTextField();
-    textField.setFont(new Font("Tahoma", Font.PLAIN, 34));
+    textField.setFont(new Font("System", Font.PLAIN, 34));
     textField.setBounds(373, 35, 609, 67);
     contentPane.add(textField);
     textField.setColumns(10);
